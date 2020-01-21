@@ -5,12 +5,7 @@ const configForStage: Partial<EnvironmentConfig> =
   process.env.NODE_ENV === 'production' ? prod : dev;
 
 const commons: Partial<EnvironmentConfig> = {
-  API_URL: 'https://rickandmortyapi.com/api',
-  PLAYER: {
-    initialVolume: 10,
-    maxVolume: 100,
-    volumeIncrement: 5
-  }
+  API_URL: 'https://rickandmortyapi.com/api'
 };
 
 const config: Partial<EnvironmentConfig> = {

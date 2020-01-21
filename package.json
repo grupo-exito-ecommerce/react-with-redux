@@ -7,7 +7,7 @@
     "test": "craco test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "firebase deploy"
+    "deploy": ""
   },
   "dependencies": {
     "@material-ui/core": "^4.7.0",
