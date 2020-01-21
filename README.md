@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Api of Rick and Morty
+
+https://rickandmortyapi.com/
+
 ## Demo
 
 Example with more redux sagas implementation https://github.com/odin16/react-music-player
